@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 485 161" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-573.152,-2601.73)">
+        <g transform="matrix(1,0,0,6.83185,0,0)">
+            <g transform="matrix(1,0,0,1,-16.4696,20.7346)">
+                <g transform="matrix(0.374075,0,0,0.275926,452.221,134.647)">
+                    <g transform="matrix(2.56167,0,0,0.156037,-929.455,268.212)">
+                        <path d="M507.376,3600.61L689.171,3600.61" style="fill:none;stroke:black;stroke-width:3.13px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,12.3596,-4.14768)">
+                        <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                            <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                        </g>
+                        <g transform="matrix(0.342208,0,0,0.0679077,435.154,536.255)">
+                            <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">01</text>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,10.2032,0)">
+                        <g transform="matrix(1,0,0,1,167.202,12.7752)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.908,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">09</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-68.5773,12.7752)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.681,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">04</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,72.8901,12.7752)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.761,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">07</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,25.7343,12.7752)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.908,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">06</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-210.045,12.7752)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.154,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">01</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,120.046,12.7752)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.614,536.266)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">08</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-115.733,12.7752)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.267,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">03</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-21.4215,12.7752)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,433.309,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">05</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-162.889,12.7752)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.12,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">02</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,214.357,12.7752)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.087,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">10</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,10.2032,-0.0256146)">
+                        <g transform="matrix(1,0,0,1,167.202,22.6971)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.728,536.29)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">19</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-68.5773,22.6971)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.501,536.269)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">14</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,72.8901,22.6971)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.581,536.261)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">17</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,25.7343,22.6971)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.728,536.232)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">16</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-210.045,22.8508)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,437.974,536.261)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">11</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,120.046,22.6971)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.434,536.266)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">18</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-115.733,22.6971)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.087,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">13</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-21.4215,22.6971)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,436.129,536.232)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">15</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-162.889,22.6971)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,434.94,536.287)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">12</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,214.357,22.8508)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.253,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">20</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,10.2032,0.102458)">
+                        <g transform="matrix(1,0,0,1,167.202,32.6191)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.895,536.29)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">29</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-68.5773,32.6191)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.668,536.287)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">24</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,72.8901,32.6191)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.748,536.287)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">27</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,25.7343,32.6191)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.895,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">26</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-210.045,32.6191)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.14,536.287)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">21</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,120.046,32.6191)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.601,536.266)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">28</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-115.733,32.6191)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.253,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">23</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-21.4215,32.6191)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,433.296,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">25</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-162.889,32.6191)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.106,536.287)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">22</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,200.417,32.5846)">
+                            <g transform="matrix(1,0,0,0.19844,56.1259,-17.8076)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,446.207,536.29)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">30</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,10.2032,0.345025)">
+                        <g transform="matrix(1,0,0,1,167.202,42.2729)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.908,536.261)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">39</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-68.5773,42.2729)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.681,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">34</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,72.8901,42.2729)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.761,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">37</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,25.7343,42.2729)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.908,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">36</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-210.045,42.2729)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.154,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">31</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,120.046,42.2729)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.614,536.266)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">38</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-115.733,42.2729)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.267,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">33</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-21.4215,42.2729)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,433.309,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">35</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-162.889,42.2729)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.12,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">32</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,214.357,42.2729)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.614,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">40</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,10.2032,-0.0512293)">
+                        <g transform="matrix(1,0,0,1,167.248,52.5655)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,433.256,536.293)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">49</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-58.8321,52.4631)">
+                            <g transform="matrix(1,0,0,0.19844,32.5417,-17.7396)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,423.385,536.379)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">44</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,71.4886,52.4631)">
+                            <g transform="matrix(1,0,0,0.19844,43.6234,-17.7396)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,434.547,536.376)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">47</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,28.0484,52.4631)">
+                            <g transform="matrix(1,0,0,0.19844,39.8167,-17.7396)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,430.887,536.342)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">46</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-210.045,52.5655)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.501,536.269)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">41</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,112.946,52.5655)">
+                            <g transform="matrix(1,0,0,0.19844,49.2821,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,440.058,536.266)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">48</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-102.272,52.4631)">
+                            <g transform="matrix(1,0,0,0.19844,28.735,-17.7396)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,419.164,536.36)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">43</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-15.3919,52.4631)">
+                            <g transform="matrix(1,0,0,0.19844,36.1792,-17.7396)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,427.651,536.339)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">45</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-145.713,52.4631)">
+                            <g transform="matrix(1,0,0,0.19844,25.0129,-17.7396)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,415.295,536.39)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">42</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,214.357,52.5655)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,433.443,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">50</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-10.4459,0.0256146)">
+                        <g transform="matrix(1,0,0,1,187.638,62.3851)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,434.084,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">59</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-58.8321,62.3851)">
+                            <g transform="matrix(1,0,0,0.19844,53.1824,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,444.854,536.237)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">54</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,71.4886,62.3851)">
+                            <g transform="matrix(1,0,0,0.19844,64.0599,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,455.812,536.232)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">57</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,28.0484,62.3851)">
+                            <g transform="matrix(1,0,0,0.19844,60.4575,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,452.357,536.232)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">56</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-189.153,62.3851)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,436.33,536.232)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">51</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,118.82,62.0829)">
+                            <g transform="matrix(1,0,0,0.19844,63.8412,-17.5399)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,455.446,536.568)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">58</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-102.272,62.3851)">
+                            <g transform="matrix(1,0,0,0.19844,49.4603,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,440.718,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">53</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-15.3919,62.3851)">
+                            <g transform="matrix(1,0,0,0.19844,56.82,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,449.12,536.232)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">55</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-145.713,62.3851)">
+                            <g transform="matrix(1,0,0,0.19844,45.8228,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,436.933,536.255)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">52</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,237.386,62.7712)">
+                            <g transform="matrix(1,0,0,0.19844,39.5629,-18.2282)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,430.286,535.869)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">60</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,12.3454,-2.27374e-13)">
+                        <g transform="matrix(1,0,0,1,172.369,72.307)">
+                            <g transform="matrix(1,0,0,0.19844,58.3638,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,449.728,536.261)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">69</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-44.8321,72.307)">
+                            <g transform="matrix(1,0,0,0.19844,39.7533,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,430.89,536.239)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">64</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,85.4886,72.307)">
+                            <g transform="matrix(1,0,0,0.19844,51.0676,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,442.285,536.229)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">67</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,42.0484,72.307)">
+                            <g transform="matrix(1,0,0,0.19844,47.2609,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,438.625,536.229)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">66</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-188.519,72.307)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.795,536.232)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">61</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,128.929,72.307)">
+                            <g transform="matrix(1,0,0,0.19844,54.6628,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,445.733,536.266)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">68</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-88.2724,72.307)">
+                            <g transform="matrix(1,0,0,0.19844,36.0523,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,426.775,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">63</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-1.39188,72.307)">
+                            <g transform="matrix(1,0,0,0.19844,43.5599,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,435.325,536.232)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">65</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-141.441,72.307)">
+                            <g transform="matrix(1,0,0,0.19844,42.1853,-17.8421)">
+                                <circle cx="548.58" cy="4250.35" r="20.892" style="fill:white;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.342208,0,0,0.0679077,432.761,536.258)">
+                                <text x="415.669px" y="4289.31px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:78.118px;">62</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,-125.99,-12.3207)">
+                    <g transform="matrix(0.117208,0,0,0.0897591,872.789,60.9774)">
+                        <path d="M507.376,3600.61L689.171,3600.61" style="fill:none;stroke:black;stroke-width:5.03px;"/>
+                    </g>
+                    <g transform="matrix(0.779862,0,0,0.114151,369.015,-18.5071)">
+                        <text x="727.452px" y="3518.33px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:30.775px;">1</text>
+                    </g>
+                    <g transform="matrix(0.779862,0,0,0.114151,362.159,-13.8538)">
+                        <text x="727.452px" y="3518.33px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:30.775px;">69</text>
+                    </g>
+                </g>
+                <g transform="matrix(0.477289,0,0,0.069043,439.622,126.674)">
+                    <text x="902.56px" y="3569.71px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:50.881px;">0.01449</text>
+                </g>
+                <g transform="matrix(0.477289,0,0,0.0698624,567.315,123.789)">
+                    <text x="902.56px" y="3569.71px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:50.284px;">1.449%</text>
+                </g>
+                <g transform="matrix(0.779862,0,0,0.114151,223.339,-32.4834)">
+                    <text x="714.7px" y="3548.99px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:30.775px;">=</text>
+                </g>
+                <g transform="matrix(0.779862,0,0,0.114151,287.981,-32.4834)">
+                    <text x="714.7px" y="3548.99px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:30.775px;">=</text>
+                </g>
+                <g transform="matrix(0.779862,0,0,0.114151,416.593,-32.4834)">
+                    <text x="714.7px" y="3548.99px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:30.775px;">=</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
